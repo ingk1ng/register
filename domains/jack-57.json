@@ -1,14 +1,9 @@
 {
   "owner": {
     "username": "ingk1ng",
-    "email": "320548074+ingk1ng@users.noreply.github.com"
+    "email": "2123797536@qq.com"
   },
-  "record": {
-    "A": [],
-    "AAAA": [],
-    "CNAME": "ingk1ng.github.io",
-    "TXT": [],
-    "NS": [],
-    "MX": []
+  "records": {
+    "CNAME": "ingk1ng.github.io"
   }
 }
